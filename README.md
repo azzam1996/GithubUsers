@@ -20,3 +20,5 @@ App Provides Search Github Users Feature, built according to Clean Architecture.
 * [**Retrofit**](https://github.com/square/retrofit):  A type-safe HTTP client for Android
 * [**Koin**](https://github.com/InsertKoinIO/koin): Lightweight dependency injection framework
 * [**Coil**](https://github.com/coil-kt/coil): Image loading library
+
+  https://github.com/user-attachments/assets/843a2838-98e2-4dec-b365-b899aa7ab6e3
